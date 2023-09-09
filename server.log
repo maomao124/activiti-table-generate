@@ -1,0 +1,20 @@
+2023-09-09 21:07:02.593  INFO 39468 --- [main] m.a.ActivitiTableGenerateApplication     : Starting ActivitiTableGenerateApplication using Java 1.8.0_332 on mao with PID 39468 (D:\程序\2023Q3\activiti-table-generate\target\classes started by mao in D:\程序\2023Q3\activiti-table-generate)
+2023-09-09 21:07:02.594 DEBUG 39468 --- [main] m.a.ActivitiTableGenerateApplication     : Running with Spring Boot v2.7.1, Spring v5.3.21
+2023-09-09 21:07:02.595  INFO 39468 --- [main] m.a.ActivitiTableGenerateApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-09-09 21:07:02.936  INFO 39468 --- [main] m.a.ActivitiTableGenerateApplication     : Started ActivitiTableGenerateApplication in 0.529 seconds (JVM running for 1.024)
+2023-09-09 21:11:02.453  INFO 25912 --- [main] m.a.ActivitiTableGenerateApplication     : Starting ActivitiTableGenerateApplication using Java 1.8.0_332 on mao with PID 25912 (D:\程序\2023Q3\activiti-table-generate\target\classes started by mao in D:\程序\2023Q3\activiti-table-generate)
+2023-09-09 21:11:02.454 DEBUG 25912 --- [main] m.a.ActivitiTableGenerateApplication     : Running with Spring Boot v2.7.1, Spring v5.3.21
+2023-09-09 21:11:02.455  INFO 25912 --- [main] m.a.ActivitiTableGenerateApplication     : No active profile set, falling back to 1 default profile: "default"
+2023-09-09 21:11:02.725  INFO 25912 --- [main] m.a.ActivitiTableGenerateApplication     : Started ActivitiTableGenerateApplication in 0.448 seconds (JVM running for 0.923)
+2023-09-09 21:11:02.727  INFO 25912 --- [main] m.a.ActivitiTableGenerateApplication     : 开始生成
+2023-09-09 21:11:02.728  INFO 25912 --- [main] org.activiti.engine.ProcessEngines       : Initializing process engine using configuration 'file:/D:/%e7%a8%8b%e5%ba%8f/2023Q3/activiti-table-generate/target/classes/activiti.cfg.xml'
+2023-09-09 21:11:02.728  INFO 25912 --- [main] org.activiti.engine.ProcessEngines       : initializing process engine for resource file:/D:/%e7%a8%8b%e5%ba%8f/2023Q3/activiti-table-generate/target/classes/activiti.cfg.xml
+2023-09-09 21:11:03.324  INFO 25912 --- [main] aultActiviti5CompatibilityHandlerFactory : Activiti 5 compatibility handler implementation not found or error during instantiation : org.activiti.compatibility.DefaultActiviti5CompatibilityHandler. Activiti 5 backwards compatibility disabled.
+2023-09-09 21:11:03.349  INFO 25912 --- [main] o.activiti.engine.impl.db.DbSqlSession   : performing create on engine with resource org/activiti/db/create/activiti.mysql.create.engine.sql
+2023-09-09 21:11:03.349  INFO 25912 --- [main] o.activiti.engine.impl.db.DbSqlSession   : Found MySQL: majorVersion=8 minorVersion=0
+2023-09-09 21:11:04.658  INFO 25912 --- [main] o.activiti.engine.impl.db.DbSqlSession   : performing create on history with resource org/activiti/db/create/activiti.mysql.create.history.sql
+2023-09-09 21:11:04.659  INFO 25912 --- [main] o.activiti.engine.impl.db.DbSqlSession   : Found MySQL: majorVersion=8 minorVersion=0
+2023-09-09 21:11:04.905  INFO 25912 --- [main] o.a.engine.impl.ProcessEngineImpl        : ProcessEngine default created
+2023-09-09 21:11:04.915  INFO 25912 --- [main] org.activiti.engine.ProcessEngines       : initialised process engine default
+2023-09-09 21:11:04.915 DEBUG 25912 --- [main] m.a.ActivitiTableGenerateApplication     : org.activiti.engine.impl.ProcessEngineImpl@5b275174
+2023-09-09 21:11:04.915  INFO 25912 --- [main] m.a.ActivitiTableGenerateApplication     : 生成结束
